@@ -14,7 +14,7 @@
 
 
 
-**NOT:** Eğer bir hata alırsanız [Plotus](https://discord.gg/N4Ze76Ukrk) sunucusundan bana ulaşabilirsiniz.
+**NOT:** Eğer bir hata alırsanız [Discord sunucumdan](https://discord.gg/D5uHt85vgF)  bana ulaşabilirsiniz.
 
 
 # Örnek Fotoğraflar
